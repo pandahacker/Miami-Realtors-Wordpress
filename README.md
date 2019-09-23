@@ -1,3 +1,8 @@
+# Table of Contents
+[Accessing the site](#accessing-the-site)
+[Contributors](#contributors)
+
+
 # Accessing the site
 
 [Admin panel to the staging server](https://staging-miamirealtors.kinsta.cloud/wp-login.php)
