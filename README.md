@@ -1,6 +1,6 @@
 # Table of Contents
 [Accessing the site](#accessing-the-site)  
-[Pushing Changes to Live Site](#pushing-changes-to-live-site)
+[Pushing Changes to Live Site](#pushing-changes-to-live-site)  
 [Contributors](#contributors)
 
 
